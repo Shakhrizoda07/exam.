@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: white;
+}
+.container{
+    width: 1400px;
+    height: 35px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+nav{
+    display: flex;
+    gap: 50px;
+}
+nav h1{
+    color: black;
+    margin-right: 550px;
+}
+.sh{
+    display: flex;
+    gap: 20px;
+    color: black;
+    left: 90px;
+}
+.sh a{
+    color: black;
+    transition: 0.3s;
+    font-size: 20px;
+}
+.sh a:hover{
+    color: rgb(253, 149, 166);
+}
+
+.main2{
+    display: flex;
+    margin-top: 60px;
+}
+.hello{
+    display: flex;
+}
+.hh{
+    display: flex;
+    gap: 200px;
+}
+.hi h4{
+    color: black;
+    margin-left: 50px;
+
+}
+.hi p{
+    color: gray;
+    margin-left: 80px;
+}
+.hey h4{
+    color: black;
+    margin-left: 120px;
+}
+.hey p{
+    color: gray;
+    margin-left: 170px;
+}
+.how h4{
+    position: relative;
+    left: 180px;
+}
+.how p{
+    color: gray;
+    position: relative;
+    left: 150px;
+}
+.main3{
+    display: flex;
+    margin-top: 60px;
+}
+.good{
+    display: flex;
+}
+.hh{
+    display: flex;
+    gap: 200px;
+}
+.well h4{
+    color: black;
+    margin-left: 110px;
+
+}
+.well p{
+    color: gray;
+    margin-left: 65px;
+}
+.perfect h4{
+    color: black;
+    margin-left: 210px;
+}
+.perfect p{
+    color: gray;
+    margin-left: 160px;
+}
+.wonderful h4{
+    position: relative;
+    left: 310px;
+}
+.wonderful p{
+    color: gray;
+    position: relative;
+    left: 255px;
+}
